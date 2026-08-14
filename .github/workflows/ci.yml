@@ -17,11 +17,6 @@ concurrency:
 permissions:
   contents: read
 
-env:
-  # プロジェクトページ（https://<user>.github.io/<repo>/）はサブパス配下に置かれる。
-  # 独自ドメインやルート配信にするときは空文字にする。
-  NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
-
 jobs:
   verify:
     runs-on: ubuntu-latest

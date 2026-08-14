@@ -4,7 +4,7 @@ Personal Photo Album のコンセプトと主要機能を紹介する日本語�
 
 ## 公開 URL
 
-https://personal-photo-album.github.io/personal-photo-album-web/
+https://personal-photo-album.services.gekal.cn/
 
 ## 必要環境
 
